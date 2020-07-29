@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Rubik:wght@500&display=swap');
+
+h1 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  color: #222831;
+}
+
+h2 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #222831;
+}
+
+
+
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: #eeeeee;
+  text-align: center;
+
+}
+
+p {
+  color: #393e46;
+}
+
+li {
+  list-style-type: none;
+}
+a {
+  color: #00adb5;
+  text-decoration: none
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#profilepic {
+  border-radius: 60px
+}
+
+.card {
+  padding: 20px;
+  border-radius: 7px;
+  background-color: white;
+  width: 60vw;
+  margin: 10px auto;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.button {
+  padding: 10px;
+  background-color: #00adb5;
+  color: white;
+  border-radius: 100px;
+  font-weight: 550;
+}
+
+#intro {
+  padding-bottom: 10px
+}
+
+
