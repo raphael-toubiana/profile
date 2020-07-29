@@ -65,7 +65,9 @@ a {
   border-radius: 100px;
   font-weight: 550;
 }
-
+.button:hover{
+  background-color: gold
+}
 #intro {
   padding-bottom: 10px
 }
