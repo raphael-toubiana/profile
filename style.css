@@ -50,7 +50,7 @@ a {
 }
 
 .card {
-  padding: 20px;
+  padding: 30px 20px;
   border-radius: 7px;
   background-color: white;
   width: 60vw;
@@ -69,8 +69,20 @@ a {
   background-color: gold;
   transition: all 0.3s ease;
 }
+
+.contact_button{
+  color: #00adb5;
+  }
+
+
+.contact_button:hover{
+  color: gold;
+  transition: all 0.3s ease;
+  }
+
 #intro {
   padding-bottom: 10px
 }
+
 
 
